@@ -1,5 +1,3 @@
-# Archivo: producto.py
-
 class Producto:
     """
     Clase que representa un producto en el inventario.
